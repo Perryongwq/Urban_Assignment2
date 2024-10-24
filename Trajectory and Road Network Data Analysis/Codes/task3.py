@@ -43,10 +43,8 @@ def fmm_map_matching(network_path, ubodt_path, input_csv, output_csv, k=6, radiu
         reader = csv.reader(in_csv)
         writer = csv.writer(out_csv)
         
-        # Skip header in input and write header in output
         next(reader)
 
-        # TODO
         writer.writerow(["Index", "cpath", "mgeom", "opath", "offset", "length", "spdist"])
 
         for index, row in tqdm(enumerate(reader)):
@@ -73,9 +71,9 @@ if __name__ == "__main__":
         network_path="data/porto/edges.shp",
         ubodt_path="data/ubodt.txt",
         input_csv="data/train-1500.csv",
-        output_csv="data/matched_routines.csv"
+        output_csv="data/map_matching.csv"
     )
     
-    file_path = 'data/matched_routines.csv'
+    file_path = 'data/map_matching.csv'
     df = pd.read_csv(file_path, nrows = 5)
     df.head(5)

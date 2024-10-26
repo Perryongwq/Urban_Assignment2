@@ -1,0 +1,7 @@
+resource
+.ipynb_checkpoints
+kraggle_data
+cache   
+data/graph.graphml
+data/porto
+Trajectory and Road Network Data Analysis

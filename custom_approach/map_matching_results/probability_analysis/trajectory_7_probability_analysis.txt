@@ -1,0 +1,441 @@
+Probability Analysis Report - Trajectory 7
+==================================================
+
+Overall Match Statistics:
+-----------------------
+Final confidence score: 0.4972
+Number of matched segments: 33
+Match success: True
+
+Emission Probability Analysis:
+---------------------------
+
+Point 0:
+
+Point 1:
+
+Point 2:
+
+Point 3:
+
+Point 4:
+
+Point 5:
+
+Point 6:
+
+Point 7:
+
+Point 8:
+
+Point 9:
+
+Point 10:
+
+Point 11:
+
+Point 12:
+
+Point 13:
+
+Point 14:
+
+Point 15:
+
+Point 16:
+
+Point 17:
+
+Point 18:
+
+Point 19:
+
+Point 20:
+
+Point 21:
+
+Point 22:
+
+Point 23:
+
+Point 24:
+
+Point 25:
+
+Point 26:
+
+Point 27:
+
+Point 28:
+
+Point 29:
+
+Point 30:
+
+Point 31:
+
+Point 32:
+
+Transition Probability Analysis:
+-----------------------------
+
+Segment 0 → 1:
+* Edge 988 → 988
+* Probability: 1.0000
+* Connected: Yes
+
+Segment 1 → 2:
+* Edge 988 → 1020
+* Probability: 1.0000
+* Connected: Yes
+
+Segment 2 → 3:
+* Edge 1020 → 17157
+* Probability: 0.3000
+* Connected: No
+
+Segment 3 → 4:
+* Edge 17157 → 17157
+* Probability: 1.0000
+* Connected: Yes
+
+Segment 4 → 5:
+* Edge 17157 → 17158
+* Probability: 0.3000
+* Connected: No
+
+Segment 5 → 6:
+* Edge 17158 → 17158
+* Probability: 1.0000
+* Connected: Yes
+
+Segment 6 → 7:
+* Edge 17158 → 17158
+* Probability: 1.0000
+* Connected: Yes
+
+Segment 7 → 8:
+* Edge 17158 → 15270
+* Probability: 0.3000
+* Connected: No
+
+Segment 8 → 9:
+* Edge 15270 → 17380
+* Probability: 1.0000
+* Connected: Yes
+
+Segment 9 → 10:
+* Edge 17380 → 17380
+* Probability: 1.0000
+* Connected: Yes
+
+Segment 10 → 11:
+* Edge 17380 → 14233
+* Probability: 1.0000
+* Connected: Yes
+
+Segment 11 → 12:
+* Edge 14233 → 17717
+* Probability: 0.3000
+* Connected: No
+
+Segment 12 → 13:
+* Edge 17717 → 17718
+* Probability: 1.0000
+* Connected: Yes
+
+Segment 13 → 14:
+* Edge 17718 → 17719
+* Probability: 1.0000
+* Connected: Yes
+
+Segment 14 → 15:
+* Edge 17719 → 46
+* Probability: 1.0000
+* Connected: Yes
+
+Segment 15 → 16:
+* Edge 46 → 60
+* Probability: 0.3000
+* Connected: No
+
+Segment 16 → 17:
+* Edge 60 → 61
+* Probability: 1.0000
+* Connected: Yes
+
+Segment 17 → 18:
+* Edge 61 → 1131
+* Probability: 1.0000
+* Connected: Yes
+
+Segment 18 → 19:
+* Edge 1131 → 1131
+* Probability: 1.0000
+* Connected: Yes
+
+Segment 19 → 20:
+* Edge 1131 → 1130
+* Probability: 1.0000
+* Connected: Yes
+
+Segment 20 → 21:
+* Edge 1130 → 1070
+* Probability: 0.3000
+* Connected: No
+
+Segment 21 → 22:
+* Edge 1070 → 11514
+* Probability: 1.0000
+* Connected: Yes
+
+Segment 22 → 23:
+* Edge 11514 → 816
+* Probability: 0.3000
+* Connected: No
+
+Segment 23 → 24:
+* Edge 816 → 1128
+* Probability: 1.0000
+* Connected: Yes
+
+Segment 24 → 25:
+* Edge 1128 → 3350
+* Probability: 0.3000
+* Connected: No
+
+Segment 25 → 26:
+* Edge 3350 → 3225
+* Probability: 0.3000
+* Connected: No
+
+Segment 26 → 27:
+* Edge 3225 → 3225
+* Probability: 1.0000
+* Connected: Yes
+
+Segment 27 → 28:
+* Edge 3225 → 3225
+* Probability: 1.0000
+* Connected: Yes
+
+Segment 28 → 29:
+* Edge 3225 → 3225
+* Probability: 1.0000
+* Connected: Yes
+
+Segment 29 → 30:
+* Edge 3225 → 21559
+* Probability: 1.0000
+* Connected: Yes
+
+Segment 30 → 31:
+* Edge 21559 → 3225
+* Probability: 1.0000
+* Connected: Yes
+
+Segment 31 → 32:
+* Edge 3225 → 3225
+* Probability: 1.0000
+* Connected: Yes
+
+Path Probability Analysis:
+----------------------
+
+Step 0:
+* Edge: 988
+* Log probability: -5.9051
+* Emission contribution: -5.9051
+* Transition contribution: 0.0000
+
+Step 1:
+* Edge: 988
+* Log probability: -8.5734
+* Emission contribution: -2.6683
+* Transition contribution: 0.0000
+
+Step 2:
+* Edge: 1020
+* Log probability: -10.2939
+* Emission contribution: -1.7205
+* Transition contribution: 0.0000
+
+Step 3:
+* Edge: 17157
+* Log probability: -14.6605
+* Emission contribution: -3.1626
+* Transition contribution: -1.2040
+
+Step 4:
+* Edge: 17157
+* Log probability: -16.0452
+* Emission contribution: -1.3847
+* Transition contribution: 0.0000
+
+Step 5:
+* Edge: 17158
+* Log probability: -18.3871
+* Emission contribution: -1.1380
+* Transition contribution: -1.2040
+
+Step 6:
+* Edge: 17158
+* Log probability: -20.9951
+* Emission contribution: -2.6080
+* Transition contribution: 0.0000
+
+Step 7:
+* Edge: 17158
+* Log probability: -22.5119
+* Emission contribution: -1.5167
+* Transition contribution: 0.0000
+
+Step 8:
+* Edge: 15270
+* Log probability: -25.4632
+* Emission contribution: -1.7474
+* Transition contribution: -1.2040
+
+Step 9:
+* Edge: 17380
+* Log probability: -26.7984
+* Emission contribution: -1.3351
+* Transition contribution: 0.0000
+
+Step 10:
+* Edge: 17380
+* Log probability: -28.4494
+* Emission contribution: -1.6510
+* Transition contribution: 0.0000
+
+Step 11:
+* Edge: 14233
+* Log probability: -31.5792
+* Emission contribution: -3.1298
+* Transition contribution: 0.0000
+
+Step 12:
+* Edge: 17717
+* Log probability: -36.3822
+* Emission contribution: -3.5990
+* Transition contribution: -1.2040
+
+Step 13:
+* Edge: 17718
+* Log probability: -36.8161
+* Emission contribution: -0.4338
+* Transition contribution: 0.0000
+
+Step 14:
+* Edge: 17719
+* Log probability: -38.8786
+* Emission contribution: -2.0626
+* Transition contribution: 0.0000
+
+Step 15:
+* Edge: 46
+* Log probability: -39.8663
+* Emission contribution: -0.9877
+* Transition contribution: 0.0000
+
+Step 16:
+* Edge: 60
+* Log probability: -41.3132
+* Emission contribution: -0.2429
+* Transition contribution: -1.2040
+
+Step 17:
+* Edge: 61
+* Log probability: -42.0278
+* Emission contribution: -0.7146
+* Transition contribution: 0.0000
+
+Step 18:
+* Edge: 1131
+* Log probability: -47.2199
+* Emission contribution: -5.1921
+* Transition contribution: 0.0000
+
+Step 19:
+* Edge: 1131
+* Log probability: -50.6159
+* Emission contribution: -3.3960
+* Transition contribution: 0.0000
+
+Step 20:
+* Edge: 1130
+* Log probability: -53.3712
+* Emission contribution: -2.7553
+* Transition contribution: 0.0000
+
+Step 21:
+* Edge: 1070
+* Log probability: -60.0329
+* Emission contribution: -5.4577
+* Transition contribution: -1.2040
+
+Step 22:
+* Edge: 11514
+* Log probability: -62.5254
+* Emission contribution: -2.4925
+* Transition contribution: 0.0000
+
+Step 23:
+* Edge: 816
+* Log probability: -65.9011
+* Emission contribution: -2.1717
+* Transition contribution: -1.2040
+
+Step 24:
+* Edge: 1128
+* Log probability: -66.1789
+* Emission contribution: -0.2778
+* Transition contribution: 0.0000
+
+Step 25:
+* Edge: 3350
+* Log probability: -68.2684
+* Emission contribution: -0.8854
+* Transition contribution: -1.2040
+
+Step 26:
+* Edge: 3225
+* Log probability: -71.2578
+* Emission contribution: -1.7855
+* Transition contribution: -1.2040
+
+Step 27:
+* Edge: 3225
+* Log probability: -72.4020
+* Emission contribution: -1.1442
+* Transition contribution: 0.0000
+
+Step 28:
+* Edge: 3225
+* Log probability: -72.8640
+* Emission contribution: -0.4620
+* Transition contribution: 0.0000
+
+Step 29:
+* Edge: 3225
+* Log probability: -73.0842
+* Emission contribution: -0.2202
+* Transition contribution: 0.0000
+
+Step 30:
+* Edge: 21559
+* Log probability: -73.3454
+* Emission contribution: -0.2612
+* Transition contribution: 0.0000
+
+Step 31:
+* Edge: 3225
+* Log probability: -73.7663
+* Emission contribution: -0.4209
+* Transition contribution: 0.0000
+
+Step 32:
+* Edge: 3225
+* Log probability: -76.1521
+* Emission contribution: -2.3858
+* Transition contribution: 0.0000

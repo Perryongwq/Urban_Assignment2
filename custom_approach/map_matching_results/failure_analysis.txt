@@ -1,0 +1,10 @@
+Matching Failure Analysis
+=======================
+
+Summary of Failures:
+-----------------
+
+Overall Statistics:
+-----------------
+Total failures: 0
+Unique failure reasons: 0
